@@ -1,2 +1,2 @@
 # Store Management System 
-## using JAVA and JDBC
+## Using JAVA and JDBC
